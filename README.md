@@ -1,3 +1,5 @@
 # Service Easy Localization
 
-A new Flutter package
+This is an experimental package for loading localizations trough a service.
+
+For more details see Example project inside.
