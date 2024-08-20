@@ -13,13 +13,6 @@ abstract class Localization {
   static const fallbackLanguageCode = LocalizationEnvironment.fallback;
   static const fallbackLocale = Locale(fallbackLanguageCode);
 
-  // static Locale systemLocale(BuildContext context) =>
-  //     (EasyLocalization.of(context)?.deviceLocale ??
-  //         context.supportedLocales
-  //             .where((element) => element.languageCode == Platform.localeName.substring(0, 2))
-  //             .firstOrNull) ??
-  //     context.supportedLocales.first;
-
   static String getNativeNameOf(Locale locale) {
     var nativeList = LocaleNamesLocalizationsDelegate.nativeLocaleNames;
     if (nativeList.containsKey(locale.languageCode)) {
