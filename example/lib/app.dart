@@ -1,6 +1,6 @@
 import 'package:example/home_page.dart';
 import 'package:flutter/material.dart';
-import 'package:service_easy_localization/easy_localization.dart';
+import 'package:service_easy_localization/exports/easy_localization.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});

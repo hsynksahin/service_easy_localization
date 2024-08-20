@@ -2,7 +2,7 @@ import 'dart:typed_data';
 import 'dart:ui';
 
 import 'package:firebase_storage/firebase_storage.dart';
-import 'package:service_easy_localization/easy_localization.dart';
+import 'package:service_easy_localization/exports/easy_localization.dart';
 import 'package:service_easy_localization/service/_localization_service.dart';
 
 class FirebaseLocalizationService extends ILocalizationService {

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:service_easy_localization/easy_localization.dart';
+import 'package:service_easy_localization/exports/easy_localization.dart';
 
 import 'pages/language/view/language_page.dart';
 

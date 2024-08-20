@@ -1,11 +1,11 @@
 import 'package:example/app.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:service_easy_localization/easy_localization.dart';
 import 'package:service_easy_localization/env.dart';
+import 'package:service_easy_localization/exports/easy_localization.dart';
+import 'package:service_easy_localization/exports/logger.dart';
 import 'package:service_easy_localization/loader/yaml_service_loader.dart';
 import 'package:service_easy_localization/localization.dart';
-import 'package:service_easy_localization/logger.dart';
 import 'dart:developer' as developer;
 
 import 'firebase_options.dart';

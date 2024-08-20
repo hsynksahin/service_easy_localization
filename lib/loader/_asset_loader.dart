@@ -1,10 +1,10 @@
 import 'dart:io';
 import 'dart:ui';
 
+import 'package:easy_localization/easy_localization.dart';
 import 'package:yaml/yaml.dart';
 
 import '../directory/directory.dart';
-import '../easy_localization.dart';
 import '../env.dart';
 import '../service/_localization_service.dart';
 
