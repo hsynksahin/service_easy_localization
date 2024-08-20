@@ -1,3 +1,3 @@
-# service_easy_localization
+# Service Easy Localization
 
 A new Flutter package
