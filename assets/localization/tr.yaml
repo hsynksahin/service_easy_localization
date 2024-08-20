@@ -1,0 +1,11 @@
+# * Main
+hello: Merhaba
+app_title: Service EasyLocalization Örneği
+
+# * Language page
+language_options: Dil seçenekleri
+system_language: Sistem dili
+accept: Tamam
+
+# * General
+error: Hata

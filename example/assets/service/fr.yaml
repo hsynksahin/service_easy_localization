@@ -1,0 +1,11 @@
+# * Main
+hello: Bonjour
+app_title: Exemple de service EasyLocalization
+
+# * Language page
+language_options: Options de langue
+system_language: Langue du système
+accept: Accepter
+
+# * General
+error: erreur

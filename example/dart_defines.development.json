@@ -1,0 +1,7 @@
+{
+    "mLocalizationLog": true,
+    "mLocalizationLogInfo": true,
+    "mLocalizationLogError": true,
+    "mLocalizationFallback": "en",
+    "mLocalizationFileUpdateInterval": 3
+}

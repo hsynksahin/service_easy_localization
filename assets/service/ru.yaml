@@ -1,0 +1,11 @@
+# * Main
+hello: Привет
+app_title: Пример сервиса EasyLocalization
+
+# * Language page
+language_options: Языковые опции
+system_language: Язык системы
+accept: Принимать
+
+# * General
+error: ошибка

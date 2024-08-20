@@ -1,0 +1,11 @@
+# * Main
+hello: مرحبًا
+app_title: مثال على خدمة EasyLocalization
+
+# * Language page
+language_options: خيارات اللغة
+system_language: لغة النظام
+accept: يقبل
+
+# * General
+error: خطأ
